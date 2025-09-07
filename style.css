@@ -234,7 +234,10 @@ background: #222;
 color: #fff;
 padding: 20px 0;
 }
-
+.himg1:hover{
+    transform: translateY(-5px);
+    transition: ease-in-out 0.2s;
+}
 
 .footer-container {
 display: flex;
@@ -244,7 +247,10 @@ max-width: 1000px;
 margin: auto;
 padding: 0 20px;
 }
-
+.prod1:hover{
+    transform: translateY(-5px);
+    transition: ease-in-out 0.2s;
+}
 
 .footer-section {
 flex: 1 1 200px;
