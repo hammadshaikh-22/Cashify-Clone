@@ -52,6 +52,14 @@ body{
     border-radius: 3px;
     
 }
+.register:hover{
+    background-color: black;
+    color: white;
+    transition: ease-in-out 0.2s;
+}
+.opt:hover{
+    border-bottom: 1px solid black;
+}
 .sect1{
     background-color: black;
     width: 70px;
